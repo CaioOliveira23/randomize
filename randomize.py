@@ -25,4 +25,4 @@ def repl(c):
 
 
 if __name__ == "__main__":
-    replace(sys.argv[1])
+    print(replace(sys.argv[1]))
